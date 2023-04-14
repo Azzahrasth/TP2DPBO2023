@@ -46,7 +46,7 @@ Saat aplikasi di jalankan, maka halaman login akan ditampilkan
      - Program akan insert data Album/Grup ke database dan insert gambar pada folder gambar
    
    - Menekan button 'Update' pada card untuk Update Data yang dipilih
-     - Masuk ke halaman formAlbum atau formGrup untuk Update Dat
+     - Masuk ke halaman formAlbum atau formGrup untuk Update Data
      - Mengisi data yang diperlukan
        Jika Album :
         - mengisi field Judul, Harga, Grup, Gambar
