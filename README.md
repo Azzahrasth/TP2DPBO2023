@@ -1,9 +1,11 @@
 # TP2DPBO2023
 
-- Add Data
+- Dokumentasi
 
 <p align="center">
-  <img src="https://github.com/Azzahrasth/TP2DPBO2023/record.gif" alt="gif format testing"/>
+  <img src="https://github.com/Azzahrasth/TP2DPBO2023/blob/main/record.gif" alt="gif format testing"/>
 </p>
+
+
 
 
