@@ -1,6 +1,8 @@
 # TP2DPBO2023
 
 ## Desain Program
+![tp2](https://user-images.githubusercontent.com/100898963/232114629-baa02bab-a765-4914-ab90-06f2b7d36a29.jpg)
+
 
 ## Penjelasan Alur
 Saat aplikasi di jalankan, maka halaman login akan ditampilkan
