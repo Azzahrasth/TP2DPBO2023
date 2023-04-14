@@ -1,5 +1,9 @@
 # TP2DPBO2023
 
+- Desain Program
+- Penjelasan Alur
+  
+
 - Dokumentasi
 
 <p align="center">
