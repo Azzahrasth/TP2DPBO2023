@@ -5,7 +5,7 @@
 ## Penjelasan Alur
 Saat aplikasi di jalankan, maka halaman login akan ditampilkan
   
- #### Login
+### Login
  - Jika sudah memiliki akun
    - Mengisi field Username dan password 
    - Menekan button 'LOGIN'
@@ -17,7 +17,7 @@ Saat aplikasi di jalankan, maka halaman login akan ditampilkan
    - Menekan button 'REGISTER'
    - Masuk halaman register
   
-#### Register
+### Register
    - Mengisi field Nama, Username, Password dan re-type Password
    - Menekan button 'REGISTER'
    - Program mengecek kecocokan password yang diinput pada field Password dan re-type Password
@@ -25,7 +25,7 @@ Saat aplikasi di jalankan, maka halaman login akan ditampilkan
      - Jika tidak muncul pesan "Password Tidak Cocok"
    - Menekan button 'LOGIN' untuk login akun
     
-#### Menu
+### Menu
     Saat halaman menu di tampilkan maka list album akan diperlihatkan terlebih dahulu
    
    - Menekan button 'ALBUM' untuk melihat list album yang ada di dalam database (berbentuk card), dan dapat melakukan CRUD album
