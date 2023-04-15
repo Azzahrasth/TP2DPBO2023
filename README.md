@@ -1,7 +1,7 @@
 # TP2DPBO2023
 
 ## Desain Program
-![tp2](https://user-images.githubusercontent.com/100898963/232114629-baa02bab-a765-4914-ab90-06f2b7d36a29.jpg)
+![tp2](https://user-images.githubusercontent.com/100898963/232195019-5190a9cc-df34-4002-accc-3a3fbe6c3b07.jpg)
 
 
 ## Penjelasan Alur
