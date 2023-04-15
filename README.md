@@ -37,27 +37,27 @@ Saat aplikasi di jalankan, maka halaman login akan ditampilkan
    - Menekan button 'ADD' untuk Create Data
      - Masuk ke halaman formAlbum atau formGrup untuk Add Data
      - Mengisi data yang diperlukan
-       Jika Album :
-        - mengisi field Judul, Harga, Grup, Gambar
-        - memilih grup pada comboBox
-        - menekan button 'Browse' untuk memilih gambar
-       Jika Grup :
-        - mengisi field Nama, Agensi, Jumlah Member
-        - menekan button 'Browse' untuk memilih gambar
+       - Jika Album :
+         - mengisi field Judul, Harga, Gambar
+         - memilih grup pada comboBox
+         - menekan button 'Browse' untuk memilih gambar
+       - Jika Grup :
+         - mengisi field Nama, Agensi, Jumlah Member
+         - menekan button 'Browse' untuk memilih gambar
      - Menekean Button 'Add'
      - Program akan insert data Album/Grup ke database dan insert gambar pada folder gambar
    
    - Menekan button 'Update' pada card untuk Update Data yang dipilih
      - Masuk ke halaman formAlbum atau formGrup untuk Update Data
      - Mengisi data yang diperlukan
-       Jika Album :
-        - mengisi field Judul, Harga, Grup, Gambar
-        - memilih grup pada comboBox
-        - menekan button 'Browse' untuk memilih gambar
-       Jika Grup :
-        - mengisi field Nama, Agensi, Jumlah Member
-        - menekan button 'Browse' untuk memilih gambar
-     - Menekean Button 'Update'
+       - Jika Album :
+         - mengisi field Judul, Harga, Gambar
+         - memilih grup pada comboBox
+         - menekan button 'Browse' untuk memilih gambar
+       - Jika Grup :
+         - mengisi field Nama, Agensi, Jumlah Member
+         - menekan button 'Browse' untuk memilih gambar
+     - Menekan Button 'Update'
      - Program akan update data Album/Grup pada database dan insert gambar pada folder gambar
    
    - Menekan button 'Delete' pada card untuk Hapus Data yang dipilih
