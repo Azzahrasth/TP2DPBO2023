@@ -1,5 +1,7 @@
 # TP2DPBO2023
 
+## Janji
+Saya Azzahra SIti Hadjar NIM 2100901 mengerjakan soal TP 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ## Desain Program
 ![tp2](https://user-images.githubusercontent.com/100898963/232195019-5190a9cc-df34-4002-accc-3a3fbe6c3b07.jpg)
 
